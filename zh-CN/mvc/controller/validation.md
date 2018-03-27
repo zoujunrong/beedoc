@@ -130,6 +130,3 @@ StructTag 可用的验证函数：
 * `Phone` 手机号或固定电话号，有效类型：`string`，其他类型都将不能通过验证
 * `ZipCode` 邮政编码，有效类型：`string`，其他类型都将不能通过验证
 
-### API 文档
-
-请移步 [Go Walker](http://gowalker.org/github.com/astaxie/beego/validation)。
